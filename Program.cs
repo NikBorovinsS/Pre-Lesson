@@ -11,7 +11,7 @@ namespace Pre_Lesson
         static void Main(string[] args)
         {
             Console.WriteLine("+-------------------------------+\n");
-            Console.WriteLine("|Borovinskiy Nikita Sergeevich|\n");
+            Console.WriteLine("|Booorovinskiy Nikita Sergeevich|\n");
             Console.WriteLine("+-------------------------------+");
 
             Console.ReadKey();

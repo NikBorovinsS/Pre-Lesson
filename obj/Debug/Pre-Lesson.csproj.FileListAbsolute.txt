@@ -1,0 +1,6 @@
+F:\ISD Initiative Program\Pre-Lesson\bin\Debug\Pre-Lesson.exe.config
+F:\ISD Initiative Program\Pre-Lesson\bin\Debug\Pre-Lesson.exe
+F:\ISD Initiative Program\Pre-Lesson\bin\Debug\Pre-Lesson.pdb
+F:\ISD Initiative Program\Pre-Lesson\obj\Debug\Pre-Lesson.csprojResolveAssemblyReference.cache
+F:\ISD Initiative Program\Pre-Lesson\obj\Debug\Pre-Lesson.exe
+F:\ISD Initiative Program\Pre-Lesson\obj\Debug\Pre-Lesson.pdb

@@ -10,6 +10,7 @@ namespace Pre_Lesson
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("");
             Console.WriteLine("+-------------------------------+\n");
             Console.WriteLine("|Borovinskiy Nikita Sergeevich|\n");
             Console.WriteLine("+-------------------------------+");
